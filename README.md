@@ -1,4 +1,4 @@
-#Índice de Desarrollo Social de la Ciudad de México#
+# Índice de Desarrollo Social de la Ciudad de México #
 
 Este mapa representa el índice de Desarrollo Social (IDS) para cada manzana de la Ciudad de México con habitantes. El índice es
 calculado por el Consejo de Evaluación de la Ciudad de México (EVALÚA CDMX). El cálculo se basa en la información del Censo de
@@ -13,4 +13,5 @@ El cálculo de este IDS se basa en el método de Necesidades Básicas Insatisfec
 
  Para publicar el mapa se unió la capa vectorial de manzanas de la Ciudad de México creada por el Instituto Electoral de la Ciudad
  de México con un archivo CSV que contenía el IDS en distintos niveles de agregación. La unión se realizó en QGIS; posteriormente
- utilicé el PlugIn qgis2web para convertir toda la información en formato web mediante leaflet.
+ utilicé el PlugIn qgis2web para convertir toda la información en formato web mediante leaflet. Puedes consultar el resultado en 
+ Github Pages con este enlace: https://social-data.github.io/mapa_ids/mapa_ids.html
